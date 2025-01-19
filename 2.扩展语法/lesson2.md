@@ -9,7 +9,7 @@
 ## 表情符号
 
 :smile:
-:laughting:
+:laughing:
 :+1:
 :-1:
 :clap:
